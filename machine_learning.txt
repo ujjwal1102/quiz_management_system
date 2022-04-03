@@ -1,0 +1,60 @@
+Question 1. What is Machine learning?
+a. The autonomous acquisition of knowledge through the use of computer programs
+b. The autonomous acquisition of knowledge through the use of manual programs
+c. The selective acquisition of knowledge through the use of computer programs
+d. The selective acquisition of knowledge through the use of manual programs
+a
+Question 2. What is true about Machine Learning?
+a. Machine Learning (ML) is the field of computer science
+b. ML is a type of artificial intelligence that extract patterns out of raw data by using an algorithm or method
+c. The main focus of ML is to allow computer systems learn from experience without being explicitly programmed or human intervention
+d. All of the above
+d
+Question 3. ML is a field of AI consisting of learning algorithms that?
+a. Improve their performance
+b. At executing some task
+c. Over time with experience
+d. All of the above
+d
+Question 4. Different learning methods do not include?
+a. Memorization
+b. Analogy
+c. Introduction
+d. Deduction
+c
+Question 5. Which of the following is a widely used and effective machine learning algorithm based on the idea of bagging?
+a. Decision Tree
+b. Random Forest
+c. Regression
+d. Classification
+b
+Question 6. High entropy means that the partitions in classification are
+a. pure
+b. not pure
+c. useful
+d. useless
+b
+Question 7. Which of the following are ML methods?
+a. Based on human supervision
+b. Supervised Learning
+c. Semi-reinforcement Learning
+d. All of the above
+a
+Question 8. In language understanding, the levels of knowledge do not include?
+a. Phonological
+b. Syntactic
+c. Empirical
+d. Logical
+c
+Question 9. A machine learning problem involves four attributes plus a class. The attributes have 3, 2, 2, and 2 possible values each. The class has 3 possible values. How many maximum possible different examples are there?
+a. 12
+b. 24
+c. 48
+d. 72
+d
+Question 10. When performing regression or classification, which of the following is the correct way to preprocess the data?
+a. Normalize the data -> PCA -> training
+b. PCA -> normalize PCA output -> training
+c. Normalize the data -> PCA -> normalize PCA output -> training
+d. None of the above
+a

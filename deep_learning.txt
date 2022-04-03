@@ -1,0 +1,60 @@
+Question 1. A perceptron is:
+a. a single layer feed-forward neuralnetwork with pre-processing
+b. an auto-associative neural network
+c. a double layer auto-associative neural network
+d. a neural network that contains feedback
+a
+Question 2. An auto-associative network is:
+a. a neural network that contains no loops
+b. a neural network that contains 
+c. a neural network that has only one loop
+d. a single layer feed-forward neural network with pre-processing
+b
+Question 3. Which is true for neural networks?
+a) It has set of nodes and connections
+b) Each node computes it’s weighted input
+c) Node could be in excited state or non-excited state
+d) All of the mentioned
+d
+Question 4. Neuro software is:
+a) A software used to analyze neurons
+b) It is powerful and easy neural network
+c) Designed to aid experts in realworld
+d) It is software used by Neuro surgeon
+b
+Question 5. Why is the XOR problem exceptionally interesting to neural network researchers?
+a. Because it can be expressed in a way that allows you to use a neural network
+b. Because it is complex binary operation that cannot be solved using neural networks
+c. Because it can be solved by a single layer perceptron
+d. Because it is the simplest linearly inseparable problem that exists.
+d
+Question 6. What is back propagation?
+a. It is another name given to the curvy function in the perceptron
+b. It is the transmission of error back through the network to adjust the inputs
+c. It is the transmission of error back through the network to allow weights to be adjusted so that the network can learn.
+d. None of the mentioned
+c
+Question 7. Why are linearly separable problems of interest of neural network researchers?
+a. Because they are the only class of problem that network can solve successfully
+b. Because they are the only class of problem that Perceptron can solve successfully
+c. Because they are the only mathematical functions that are continue
+d. Because they are the only mathematical functions you can draw
+b
+Question 8. Which of the following is not the promise of artificial neural network?
+a. It can explain result
+b. It can survive the failure of some nodes
+c. It has inherent parallelism
+d. It can handle noise
+a
+Question 9. Neural Networks are complex ______________ with many parameters:
+a. Linear Functions
+b. Nonlinear Functions
+c. Discrete Functions
+d. Exponential Functions
+a
+Question 10. The name for the function in question 16 is :
+a. Step function
+b. Heaviside function
+c. Logistic function
+d. Perceptron function
+b

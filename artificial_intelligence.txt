@@ -1,0 +1,61 @@
+Question 1. Artificial Intelligence is about_____.
+a. Playing a game on Computer
+b. Making a machine Intelligent
+c. Programming on Machine with your Own Intelligence
+d. Putting your intelligence in Machine
+b
+Question 2. Who is known as the -Father of AI"?
+a. Fisher Ada
+b. Alan Turing
+c. John McCarthy
+d. Allen Newell
+c
+Question 3.Select the most appropriate situation for that a blind search can be used.
+a. Real-life situation
+b. Small Search Space
+c. Complex game
+d. All of the above
+b
+Question 4.The application/applications of Artificial Intelligence is/are
+a. Expert Systems
+b. Gaming
+c. Vision Systems
+d. All of the above
+d
+Question 5.Among the given options, which search algorithm requires less memory?
+a.Optimal Search
+b. Depth First Search
+c.Breadth-First Search
+d.Linear Search
+b
+Question 6. If a robot is able to change its own trajectory as per the external conditions, then the robot is considered as the__
+a. Mobile
+b. Non-Servo
+c. Open Loop
+d. Intelligent
+d
+Question 7.Which of the given language is not commonly used for AI?
+a. LISP
+b. PROLOG
+c. Python
+d. Perl
+d
+Question 8.A technique that was developed to determine whether a machine could or could not demonstrate the artificial intelligence known as the___
+a. Boolean Algebra
+b. Turing Test
+c. Logarithm
+d. Algorithm
+b
+Question 9.The component of an Expert system is_________.
+a. Knowledge Base
+b. Inference Engine
+c. User Interface
+d. All of the above
+d
+Question 10. Which algorithm is used in the Game tree to make decisions of Win/Lose?
+a. Heuristic Search Algorithm
+b. DFS/BFS algorithm
+c. Greedy Search Algorithm
+d. Min/Max algorithm
+d
+
